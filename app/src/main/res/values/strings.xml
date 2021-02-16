@@ -2,4 +2,9 @@
     <string name="app_name">Uber Car</string>
     <string name="sign_in_with_phone">Sign In with Phone</string>
     <string name="sign_in_with_goole">Sign In with Google</string>
+    <string name="continue_txt">Continue</string>
+    <string name="register_title">Lets start with creating your account</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="phone_number">Phone number</string>
 </resources>
