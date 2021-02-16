@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Uber Car</string>
+    <string name="sign_in_with_phone">Sign In with Phone</string>
+    <string name="sign_in_with_goole">Sign In with Google</string>
+</resources>
